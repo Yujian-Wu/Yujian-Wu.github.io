@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yujian Wu's personal webpage"
+# title: "Yujian Wu's personal webpage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
